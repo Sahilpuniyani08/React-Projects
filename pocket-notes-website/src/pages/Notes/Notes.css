@@ -1,0 +1,14 @@
+@media (max-width: 640px) {
+    .sideBarhidden {
+   display: none;
+    }
+    .sideBarBlock {
+   display: block;
+    }
+    .above{
+    margin-bottom: 40px;
+   
+    }
+  }
+
+
